@@ -20,4 +20,4 @@
 
 ## Connect With Me
 - GitHub: https://github.com/eegamadhu
-- Email: eehamadhu00@gmail.com
+- Email: eegamadhu00@gmail.com
